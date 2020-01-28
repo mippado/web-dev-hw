@@ -1,0 +1,7 @@
+Data travels on the internet via bits that can travel up to millions of bits per second to relay information from one place to another.
+
+IP (Internet protocol) is the computers individual address. DNS associates names like website URL's with their corresponding addresses (their IP).
+
+A cookie is a small piece of data that is sent by a website and stored in the users computer. They are used to allow websites to identify users preferences and traits.
+
+The three basic parts of a URL are the protocol, the domain name and the path. 
