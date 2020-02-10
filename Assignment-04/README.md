@@ -6,3 +6,4 @@ I really like using the GIT module. It is much more logical for me to make my ed
 
 [My about file](./about.html)
 [My index file](./index.html)
+![My Screenshot](./images/screenshot04)
