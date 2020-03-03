@@ -1,0 +1,5 @@
+The difference between span and div is that a span element is in-line and usually used for a small chunk of HTML inside a line (such as inside a paragraph) whereas a div (division) element is block-line (which is basically equivalent to having a line-break before and after it) and used to group larger chunks of code.
+
+Alt text is a tenet of accessible web design. Its original (and still primary) purpose is to describe images to visitors who are unable to see them.
+
+My work cycle for this project was more difficult than a lot of the previous projects. I had to insert the files that I downloaded from moodle into a media file and extract them to my index for my copyright section on this page. I also found out that you can find code from youtube videos and soundcloud songs to plug them into your page. I really liked this assignment because I really wanted to learn how to insert media to my pages. It was interesting to learn how much code you can find and use online, there are a lot of ways to get media / information on to your web page!
