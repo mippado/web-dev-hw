@@ -1,0 +1,5 @@
+My learning experience during HTML was awesome. I really liked this last project of getting to make a website with multiple pages and have them all connect to each other with good information on them. It was all new to me, and all very interesting to learn. I liked learning how to add pictures to my images folder, and then tie them into my site.
+
+It is hard for me to answer this question because I do not know what CSS is, however I am excited to learn how to make my pages look more professional.
+
+This process was fun. I decided to use the 'making a PB&J' because I was getting ready to eat one anyway. I took the pictures on my phone, and them emailed them to myself and saved them onto my computer so I could use them on my site. I then went through the process of how to make one, with pictures for every step of the way. I had to then describe why I chose to do a PB&J and then make a nice contact me page. I like the contact page, but I want to figure out how I can get the submit button to actually send an email to myself. 
