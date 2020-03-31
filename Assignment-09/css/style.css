@@ -11,27 +11,24 @@ h1 {
 #color1 {
   background-color: #FF355E;
   opacity: 0.5;
-  position: absolute;
-  height: 100px
+  height: 100px;
+  position: relative;
 
 }
 
 #color2 {
   background-color: #50BFE6;
   opacity: 0.7;
-  position: absolute;
   height: 100px
 }
 
 #color3 {
   background-color: #FF00CC;
   opacity: 0.9;
-  position: absolute;
   height: 100px
 }
 
 #color4 {
   background-color: #FF9933;
-  position: absolute;
   height: 100px
 }
