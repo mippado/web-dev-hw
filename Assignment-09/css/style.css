@@ -8,21 +8,26 @@ h1 {
 
 #color1 {
   background-color: #FF355E;
-  opacity: 0.5
+  opacity: 0.5;
+  color: #66FF66
+
 }
 
 #color2 {
   background-color: #50BFE6;
-  opacity: 0.5
-  
+  opacity: 0.6;
+  color: #66FF66
+
 }
 
 #color3 {
   background-color: #FF00CC;
-  opacity: 0.5
+  opacity: 0.7;
+  color: #66FF66
 }
 
 #color4 {
   background-color: #FF9933;
-  opacity: 0.5
+  opacity: 0.8;
+  color: #66FF66
 }
