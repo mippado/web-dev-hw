@@ -3,6 +3,10 @@ h1 {
 }
 /*this h1 text is showing up black, not as the neon green I am trying to use*/
 
+.color-text {
+  color: #66FF66
+}
+
 .square {
   width: 45%;
 }
