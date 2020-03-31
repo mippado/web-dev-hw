@@ -3,9 +3,6 @@ h1 {
 }
 /*this h1 text is showing up black, not as the neon green I am trying to use*/
 
-.color-text {
-  color: #66FF66
-}
 
 .square {
   width: 45%;
@@ -14,24 +11,27 @@ h1 {
 #color1 {
   background-color: #FF355E;
   opacity: 0.5;
-  text-decoration-color: #66FF66
+  position: absolute;
+  height: 100px
 
 }
 
 #color2 {
   background-color: #50BFE6;
   opacity: 0.7;
-  text-decoration-color: #66FF66
-
+  position: absolute;
+  height: 100px
 }
 
 #color3 {
   background-color: #FF00CC;
   opacity: 0.9;
-  text-decoration-color: #66FF66
+  position: absolute;
+  height: 100px
 }
 
 #color4 {
   background-color: #FF9933;
-  text-decoration-color: #66FF66
+  position: absolute;
+  height: 100px
 }
