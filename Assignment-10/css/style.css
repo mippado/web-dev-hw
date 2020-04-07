@@ -19,7 +19,22 @@ p::first-letter {
   font-size: 3em;
   font-weight: 700;
   color: rgb(11, 44, 126)
-  
+
 }
 
 /* "Read More!" Link */
+a {
+  background-color: rgb(11, 44, 126);
+  color: #FFFFFF;
+  padding: 5px;
+}
+a:hover {
+  font-style: italic;
+}
+a:visited{
+  color: #999999;
+}
+a:active {
+  background-color: #999999
+  color: rgb(11, 44, 126)
+}
