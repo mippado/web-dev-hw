@@ -1,0 +1,17 @@
+/* Page-Wide */
+body {
+  background-color: rgb(147, 12, 76);
+  color: white;
+  padding: 5px;
+  font-family: 'Merriwweather', serif;
+}
+
+/* Paragraph Content */
+.text {
+  background-color: #FFFFFF;
+  color: rgb(147, 12, 76);
+  padding: 5px
+}
+
+
+/* "Read More!" Link */
