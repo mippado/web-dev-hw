@@ -13,9 +13,23 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-
 }
 
+.site-info{
+  margin: 2em;
+  text-align: center;
+  font-size: 200%;
+}
+
+.logo{
+  background-color: #FFF;
+  width: 100px;
+  height: 200px;
+  margin: auto;
+  line-height: 200px;
+  color: #000;
+  text-transform: uppercase;
+}
 
 .main{
 background-color: #FFF;
