@@ -18,14 +18,19 @@ body {
 .site-info{
   margin: 2em;
   text-align: center;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 .logo {
   background-color: #FFF;
-  width: 200px;
+  width: 150px;
   height: 150px;
+
   margin: auto;
+
+  border: ;
+  border-radius: 100%;
+  
   line-height: 150px;
   color: #000;
   text-transform: uppercase;
