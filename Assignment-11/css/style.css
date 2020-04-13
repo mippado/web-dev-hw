@@ -42,6 +42,10 @@ body {
   text-transform: uppercase;
 }
 
+.logo:hover: {
+  border-color: #999;
+}
+
 .main {
 background-color: #FFF;
 margin-left: 300px;
