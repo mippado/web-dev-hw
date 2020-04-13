@@ -46,6 +46,19 @@ body {
   border-color: #999;
 }
 
+.site-links {
+  margin: 0 1em;
+}
+
+.site-links a {
+  display: block;
+  margin: 1em;
+}
+
+.site-links a:hover {
+  margin-left: 2.5em;
+}
+
 .main {
 background-color: #FFF;
 margin-left: 300px;
