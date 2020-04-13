@@ -21,7 +21,7 @@ body {
 }
 
 .site-info {
-  margin: 2em;
+  margin: 2em auto;
 
   text-align: center;
   font-size: 150%;
